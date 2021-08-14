@@ -1,2 +1,2 @@
 Результат работы генератора статических блогов Pelican (Python).  
-https://zueffc.github.io - демо с нестандарной темой.
+https://zueffc.github.io/zueffc.site/ - демо с нестандарной темой.
